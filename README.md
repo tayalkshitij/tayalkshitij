@@ -4,7 +4,7 @@
 
 - 📚 I am interested in **time series forecasting & video understanding**. In terms of video understanding, I am focusing on intelligent processing for **underwater untrimmed long videos**.
 
-- 😀 You can follow me on [**Zhihu**](https://www.zhihu.com/people/ddz-73).
+- 😀 You can follow me on [**LinkedIn**]([https://www.zhihu.com/people/ddz-73](https://www.linkedin.com/in/kshitij-t-a5789545/)).
 
 - 📧 How to reach me **tayal@umn.edu**.
 
