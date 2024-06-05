@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kshitij</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ddz16&label=Profile%20views&color=0e75b6&style=flat" alt="ddz16" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ddz16&label=Profile%20views&color=0e75b6&style=flat" alt="tayalkshitij" /> </p>
 
 - 📚 I am interested in **time series forecasting & video understanding**. In terms of video understanding, I am focusing on intelligent processing for **underwater untrimmed long videos**.
 
