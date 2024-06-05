@@ -6,7 +6,7 @@
 
 - 😀 You can follow me on [**Zhihu**](https://www.zhihu.com/people/ddz-73).
 
-- 📧 How to reach me **dudazhao16@gmail.com**.
+- 📧 How to reach me **tayal@umn.edu**.
 
 
 <h2>&nbsp Universities and Institutions</h2>
