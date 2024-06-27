@@ -9,7 +9,7 @@
 - 📧 How to reach me **tayal@umn.edu**.
 
 
-<h2><img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="35">&nbsp;Universities and Institutions</h2>
+<h2><img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="35">&nbsp;Universities and Institutions</h2>
 
 <div align="center">
 <p> 
