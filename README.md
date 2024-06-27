@@ -35,11 +35,9 @@
 </div>
 
 
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35">&nbsp; Git Stats</h2>
-
-<h2 ><img src ="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width ="37">&nbsp Git Stats</h1>
+<h2><img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="37">&nbsp;Git Stats</h2>
 <div align="center">
-<a  href="https://github-readme-stats.vercel.app/api?username=tayalkshitij&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true">
+<a href="https://github-readme-stats.vercel.app/api?username=tayalkshitij&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true">
   <img align="center" width="53%" src="https://github-readme-stats.vercel.app/api?username=tayalkshitij&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true"/>
 </a>
 
