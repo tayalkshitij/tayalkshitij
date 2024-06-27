@@ -29,6 +29,9 @@
   <img align="center" height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
   <img align="center" height="45" width="5%" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Slurm_logo.svg">
+    <img align="center" height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+
 </div>
 
 <!--
