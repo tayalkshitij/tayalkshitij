@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddz16&label=Profile%20views&color=0e75b6&style=flat" alt="tayalkshitij" /> </p>
 
-- 📚 I am interested in **time series forecasting & video understanding**. In terms of video understanding, I am focusing on intelligent processing for **underwater untrimmed long videos**.
+- 📚 My research interests lie at the intersection of **sequential modeling**, **time series forecasting**, and **large language models**. Currently, I'm focusing on developing a foundation model for **environmental data science** applications. This model aims to efficiently process and analyze the vast amounts of time series data commonly encountered in environmental studies, enhancing our ability to understand and predict complex environmental systems.
 
-- 😀 You can follow me on [**LinkedIn**]([https://www.zhihu.com/people/ddz-73](https://www.linkedin.com/in/kshitij-t-a5789545/)).
+- 😀 You can follow me on [**LinkedIn**](https://www.linkedin.com/in/kshitij-t-a5789545/).
 
 - 📧 How to reach me **tayal@umn.edu**.
 
