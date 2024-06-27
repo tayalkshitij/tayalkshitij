@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kshitij</h1>
+*<h1 align="center">Hi 👋, I'm Kshitij</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddz16&label=Profile%20views&color=0e75b6&style=flat" alt="tayalkshitij" /> </p>
 
@@ -37,6 +37,7 @@
 <!--
 ## &#128202; Git Stats
 -->
+<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35">&nbsp; Git Stats</h2>
 
 <h2 ><img src ="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width ="37">&nbsp Git Stats</h1>
 <div align="center">
