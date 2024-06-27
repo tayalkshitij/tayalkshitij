@@ -15,8 +15,8 @@
 <p> 
    <a href="https://www.umn.edu/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/university-of-minnesota.svg" alt="University of Minnesota" width="90" height="90"/> </a>
     <a href="https://www.ornl.gov/" target="_blank" rel="noreferrer"> <img src="https://www.fws.gov/sites/default/files/styles/large/public/2020-08/2000px-Oak_Ridge_National_Laboratory_logo.svg_.png?itok=oSc9s3zI" alt="Oak Ridge National Laboratory" width="150" height="90"/> </a>
-   <a href="http://www.iscas.ac.cn/" target="_blank" rel="noreferrer"> <img src="https://bkimg.cdn.bcebos.com/pic/0bd162d9f2d3572c74c412de8d13632762d0c38a" alt="iscas" width="80" height="80"/> </a> 
-   <a href="https://www.bytedance.com/zh/" target="_blank" rel="noreferrer"> <img src="https://bkimg.cdn.bcebos.com/pic/21a4462309f79052982293b04fa4c0ca7bcb0b467fbf" alt="tiktok" width="80" height="80"/> </a> 
+   <a href="https://www.nsf.gov/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180913/rcz/kisspng-national-science-foundation-united-states-of-ameri-5b99e8ac900704.27474045153681322859.jpg" alt="U.S. National Science Foundation" width="150" height="90"/> </a>
+   <a href="https://www.energy.gov/" target="_blank" rel="noreferrer"> <img src="https://www.energy.gov/sites/default/files/styles/full_article_width/public/2023-07/DOE_Color_Seal_Green_Logo_Clear_2860%C3%97719.png?itok=WNldbVzx" alt="U.S. Department of Energy" width="150" height="90"/> </a>
 </p>
 </div>
 
