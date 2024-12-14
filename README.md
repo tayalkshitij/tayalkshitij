@@ -16,7 +16,7 @@
    <a href="https://www.umn.edu/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/university-of-minnesota.svg" alt="University of Minnesota" width="90" height="90"/> </a>
     <a href="https://www.ornl.gov/" target="_blank" rel="noreferrer"> <img src="https://www.fws.gov/sites/default/files/styles/large/public/2020-08/2000px-Oak_Ridge_National_Laboratory_logo.svg_.png?itok=oSc9s3zI" alt="Oak Ridge National Laboratory" width="150" height="90"/> </a>
    <a href="https://www.nsf.gov/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/10/National-Science-Foundation-logo-1080x1086.png" alt="U.S. National Science Foundation" width="90" height="90"/> </a>
-   <a href="https://www.energy.gov/" target="_blank" rel="noreferrer"> <img src="https://niyogilab.berkeley.edu/wp-content/uploads/2022/09/doe-logo.webp" alt="U.S. Department of Energy" width="190" height="90"/> </a>
+<!--    <a href="https://www.energy.gov/" target="_blank" rel="noreferrer"> <img src="https://niyogilab.berkeley.edu/wp-content/uploads/2022/09/doe-logo.webp" alt="U.S. Department of Energy" width="190" height="90"/> </a> -->
 </p>
 </div>
 
